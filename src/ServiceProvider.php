@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace GianTiaga\LaravelUpdates;
+
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;
 
 class ServiceProvider extends LaravelServiceProvider
